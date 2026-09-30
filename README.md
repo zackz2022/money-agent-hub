@@ -1,4 +1,26 @@
-# money-agent-hub
+#
+
+
+
+money-agent-hub
+├── src
+│   ├── server.cjs
+│   ├── agents
+│   │   ├── basedagents.cjs
+│   │   ├── mya.cjs
+│   │   ├── gigs.cjs
+│   │   └── promotion.cjs
+│   └── core
+├── agent-platforms
+│   ├── basedagents
+│   ├── mya
+│   └── gigs-sh
+└── start.sh
+
+
+
+
+#money-agent-hub
 #!/bin/bash
 set -e
 

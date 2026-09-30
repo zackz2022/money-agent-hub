@@ -1,0 +1,12 @@
+
+### So your GitHub repository only needs:
+
+**Required:**
+- `setup.sh` ✅
+
+**Recommended:**
+- `README.md` 📖
+
+That's it. The rest gets generated automatically when you run `setup.sh`. 🚀
+
+One thing: **don't put the actual `YOUR-REPOSITORY-URL` placeholder in a command you'll run later**. Once your GitHub repository exists, we'll replace it with your actual repository address.
